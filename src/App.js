@@ -15,6 +15,7 @@ import ProductCarousel from "./DynamicComponents/ProductCarousel";
 function App() {
   return (
     <Router>
+      
      <TopHeader />
       <Routes>
         <Route path="/" element={  <div>  <SliderWithContent />  <ImageCard />  <VideoCard /> </div> } />

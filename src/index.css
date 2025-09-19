@@ -1,3 +1,5 @@
+/* Using Tailwind CDN injected via public/index.html. Keep any custom CSS below. */
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -11,3 +13,6 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Tumhara custom CSS (agar ho to) niche likho */
+
